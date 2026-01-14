@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-ollama
+chromadb
+faiss-cpu
+pypdf
+python-multipart
+tqdm
+langchain>=0.2.0
+langchain-core
